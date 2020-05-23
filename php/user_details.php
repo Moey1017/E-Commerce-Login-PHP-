@@ -1,0 +1,5 @@
+<?php
+$ACCESS_ADMIN = 1;
+$ACCESS_STANDARD_USER = 2;
+?>
+
